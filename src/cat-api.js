@@ -1,5 +1,5 @@
 import axios from "axios";
-import SlimSelect from 'slim-select';
+//import SlimSelect from 'slim-select';
 import '/node_modules/slim-select/dist/slimselect.css';
 
 
